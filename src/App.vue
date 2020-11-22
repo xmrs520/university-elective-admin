@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h1>戏沫人生管理系统</h1>
     <!-- 路由出口 -->
     <router-view />
   </div>
