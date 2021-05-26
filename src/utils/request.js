@@ -5,7 +5,7 @@ import axios from 'axios'
 import router from '@/router'
 
 const request = axios.create({
-  baseURL: 'http://localhost:3000/'
+  baseURL: 'http://192.168.43.143:3000/'
 })
 
 // 添加请求拦截器
